@@ -1,3 +1,4 @@
 # jee mock test
 Aspirants who are preparing for examinations like JEE Mains and JEE Advanced feel much difficulty on real exam day even after achieving an adequate level of preparation, one of the major reason behind this is that they panick out in real exam when they see the interface of the website onto which they are going to give the examination. I have tried to help them by creating a real NTA JEE Mains based user interface website, the aspirants can also access their responses and the solutions of the questions in the exam. 
 I have certainly used AI to get the record of responses of the aspirants, but the user interface has been created  by myself. 
+new change added by aabhas tiwari
